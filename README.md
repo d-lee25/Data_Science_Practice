@@ -13,13 +13,13 @@
 
 
 ### Simple Data Exploratory Analysis
-- Data: Kaggle 911 Call 
+**Data: Kaggle 911 Call**
 ***Key Learning Topics**
 - Practice using Pandas, Seaborne, Matplotlib, Numpy
 
 ### Linear Regression
-- Data: Ecommerce Customers
--
+**Data: Ecommerce Customers**
+
 **Key Learning Topics**
 - Linear regression
 - scikit train_test_split
